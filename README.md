@@ -2,7 +2,7 @@
 
 
 - 🎓 &nbsp;I'm currently studying Computer Engineering at Delhi Technological University.
-- 😄 &nbsp;Upcoming software engineer at Microsoft
+- 😄 &nbsp;Software Engineer II at Microsoft
 - ⚡ &nbsp;I'm Crazy about Cloud and Blockchain
 - 📫 &nbsp;How to reach me: 
     - souravpal.4916@gmail.com
